@@ -40,6 +40,7 @@ LANGUAGE_COLORS = {
     "Python": "#3572A5",
     "JavaScript": "#f1e05a",
     "TypeScript": "#3178c6",
+    "GDScriptt": "#3178c6",
     "Java": "#b07219",
     "C#": "#178600",
     "C++": "#f34b7d",
